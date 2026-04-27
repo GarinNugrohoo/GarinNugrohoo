@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31m4pzygcqfwdkml3g2ixbuejmhq)
+
 ###
 
 <div align="center">
